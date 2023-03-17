@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudManage.iml" filepath="$PROJECT_DIR$/cloudManage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-server/ms-server.iml" filepath="$PROJECT_DIR$/ms-server/ms-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-user/ms-user.iml" filepath="$PROJECT_DIR$/ms-user/ms-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+    </modules>
+  </component>
+</project>
